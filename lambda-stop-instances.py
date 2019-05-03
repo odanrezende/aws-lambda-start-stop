@@ -32,6 +32,6 @@ def lambda_handler(event, context):
     else:
         print("Não foram encontradas instâncias em RUNNING")
 
-    return 'Olá, eu comando rodou corretamente!'
+    return 'Olá, seu comando rodou corretamente!'
 
 
